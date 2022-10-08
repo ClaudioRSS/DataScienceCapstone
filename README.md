@@ -1,3 +1,3 @@
-#Applied Data Science Capstone#
-# Notebooks #
+# Applied Data Science Capstone #
+## Jupyter Notebooks ##
 Claudio RS
